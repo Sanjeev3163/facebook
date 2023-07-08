@@ -1,1 +1,5 @@
-.*
+function facebook(){
+addeventListner('click',()=>{
+event.facbook="new *"
+})
+}
